@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔹 About Me<br> 
-create exploit scripts for Roblox games and am proficient in some programming languages. They are: Lua/LuaU and Python. 🌟<br><br>🔹 Skills<br>- Languages: Lua/LuaU, Python  <br>- Current Focus: Roblox scripting  <br><br>🔹 Future Goals<br>I plan to expand my knowledge by learning additional programming languages and aim to pursue a career in software development. 🚀
+🔹 About Me<br>create exploit scripts for Roblox games and am proficient in some programming languages. They are: Lua/LuaU and Python. 🌟<br><br>🔹 Skills<br>- Languages: Lua/LuaU, Python  <br>- Current Focus: Roblox exploiting <br><br>🔹 Future Goals<br>I plan to expand my knowledge by learning additional programming languages and aim to pursue a career in software development. 🚀
 
 
 ## 🌐 Socials:
